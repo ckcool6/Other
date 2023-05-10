@@ -1,9 +1,9 @@
-package ClassLoaderDemo;
+package ReflectDemo;
 
 public class ReflectDemo1 {
     public static void main(String[] args) throws ClassNotFoundException {
         //1
-        Class<?> aClass = Class.forName("ClassLoaderDemo.Demo1");
+        Class<?> aClass = Class.forName("ReflectDemo.Demo1");
         System.out.println(aClass);
 
         //2
