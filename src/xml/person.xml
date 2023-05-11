@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE persons SYSTEM 'C:\Users\lu\IdeaProjesPRO\Other\src\xml\person.dtd'>
+
+<persons>
+
+    <person id="p1">
+        <name>Jack</name>
+        <age>12</age>
+    </person>
+
+    <person id="p2">
+        <name>Lyra</name>
+        <age>21</age>
+    </person>
+
+</persons>

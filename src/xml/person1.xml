@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE persons SYSTEM 'C:\Users\lu\IdeaProjesPRO\Other\src\xml\person.dtd'>
+
+<persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="it/javase"
+         xsi:schemaLocation="it/javase person.xsd"
+>
+
+    <person id="001">
+        <name>Jack</name>
+        <age>12</age>
+    </person>
+
+</persons>
