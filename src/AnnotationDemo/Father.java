@@ -1,7 +1,7 @@
 package AnnotationDemo;
 
 public class Father {
-    @Test
+    @Test1
     public void show(){
         System.out.println("father method");
     }
